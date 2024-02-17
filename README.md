@@ -108,6 +108,12 @@ _Great job adding an image to the file :tada:_
 In addition to code blocks, some code blocks should be rendered differently depending on the language, such as JavaScript or command-line text.
 
 ### Example
+ **Preview**
+```js
+$ npm run dev
+Run App
+
+```
 
 <pre>
 ```
